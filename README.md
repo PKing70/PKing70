@@ -12,6 +12,9 @@ I help developers build with Splunk through clear documentation, runnable exampl
 - [Git your apps together — .conf24](https://github.com/bdebek-splunk/devtutorial-conf24-final)  
   Co-presented workshop with Bartosz Dębek. The canonical demo app and instructions live in the co-presenter’s repository.
 
+- [Everett Police Incidents for Splunk](https://github.com/PKing70/Everett)  
+  Built an independent Python 3 modular input and two classic Simple XML dashboards for the public City of Everett incidents dataset. The repository includes a nine-case offline test suite; that suite, AppInspect, and Splunk-runtime validation have not been verified here.
+
 - [SDK reference migration preview](https://github.com/PKing70/sdk-docs-preview)  
   A proof of concept showing six SDK and logging-library references as GitHub Pages sites. The current preview is a static snapshot.
 
