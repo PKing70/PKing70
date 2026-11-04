@@ -19,7 +19,7 @@ I help developers build with Splunk through clear documentation, runnable exampl
 
 
 - [Everett Police Incidents for Splunk](https://github.com/PKing70/Everett)  
-  Built an independent Python 3 modular input and two classic Simple XML dashboards for the public City of Everett incidents dataset. The repository includes a nine-case offline test suite; that suite, AppInspect, and Splunk-runtime validation have not been verified here.
+  Built an independent Python 3 modular input and two classic Simple XML dashboards for the public City of Everett incidents dataset. The repository includes a nine-case offline test suite. This app (and countless offshoots) was our "vibe coding" demo at the .conf26 Pavilion Builder Bar, where we demo'd how to use Codex and skills to build an app, Get Data In, visualize data, validate the packaged output with AppInspect, and so on.
 
 
 - [SDK reference migration preview](https://github.com/PKing70/sdk-docs-preview)  
