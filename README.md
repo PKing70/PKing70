@@ -15,6 +15,9 @@ I help developers build with Splunk through clear documentation, runnable exampl
 - [SDK reference migration preview](https://github.com/PKing70/sdk-docs-preview)  
   A proof of concept showing six SDK and logging-library references as GitHub Pages sites. The current preview is a static snapshot.
 
+- **MSDS hypertension-detection capstone**  
+  A team data-science project exploring hypertension detection with anonymized healthcare data. The repository remains private; this summary does not expose the dataset, clinical examples, or team details.
+
 ## Current focus
 
 - Developer guides with runnable examples
