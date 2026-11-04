@@ -30,6 +30,11 @@ I help developers build with Splunk through clear documentation, runnable exampl
   A team data-science project exploring hypertension detection with anonymized healthcare data. The source patient dataset is intentionally omitted, so the analysis is not runnable without the separately obtained CSV dataset.
 
 
+## Published communication
+
+- [CI/CD Automation for Splunk Apps using GitHub Actions — Part 1](https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions.html) and [Part 2](https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions-part-2.html) — a two-part guide to source control, packaging, AppInspect, tests, and releases for Splunk apps.
+- [App Building 101 tech talk](https://www.youtube.com/watch?v=x9d8GyGnZhU) — Pat's recorded Splunk-channel talk on building Splunk apps.
+
 ## Current focus
 
 
